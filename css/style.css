@@ -1,0 +1,27 @@
+html {
+    scroll-behavior: smooth;
+  }
+
+h1,h2,h3,h4,h5,p,span {
+    font-weight: normal;
+}
+
+.navbar {
+    background: rgba(0, 0, 0, .4);
+}
+
+.home {
+    min-height: 100vh;
+    background: linear-gradient(rgba(0, 0, 0, .4), rgba(0, 0, 0, .4)), url('../assets/images/header-img.jpeg') 100%;
+}
+
+.mission {
+    min-height: 100vh;
+    background: rgb(21, 31, 31);
+}
+
+hr {
+    border: 3px solid white;
+    width: 8rem;
+}
+
